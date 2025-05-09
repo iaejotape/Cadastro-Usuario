@@ -167,3 +167,8 @@ form button:hover {
   flex-direction: column;
   align-items: center;
 }
+
+.image-side img{
+  width: 140px;
+  height: 280px;
+}
