@@ -7,7 +7,6 @@ A aplicação funciona 100% no frontend, **sem conexão com banco de dados ou AP
 ![Preview do Projeto](https://github.com/iaejotape/Cadastro-Usuario/blob/main/src/assets/screenshot-cadastro.png?raw=true)
 
 
-
 ---
 
 ## 🧩 Funcionalidades
