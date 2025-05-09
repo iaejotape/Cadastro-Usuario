@@ -4,7 +4,8 @@ Este é um projeto de **formulário de cadastro de usuários**, desenvolvido com
 
 A aplicação funciona 100% no frontend, **sem conexão com banco de dados ou API externa**. Os dados são armazenados temporariamente em memória durante a execução.
 
-![Preview do Projeto](./assets/screenshot-cadastro.png) //
+![Preview do Projeto](./src/assets/screenshot-cadastro.png)
+
 
 ---
 
