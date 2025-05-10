@@ -11,7 +11,7 @@ A aplicação funciona 100% no frontend, **sem conexão com banco de dados ou AP
 
 ## 🧩 Funcionalidades
 
-- Interface moderna e responsiva
+- Interface moderna
 - Cadastro de usuários com campos: nome, e-mail e senha
 - Validação básica dos campos obrigatórios
 - Visualização dos usuários cadastrados
